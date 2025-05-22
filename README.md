@@ -4,7 +4,7 @@ Welcome to my personal portfolio! I'm a passionate software developer focused on
 
 ## 🧑‍💻 About Me
 
-Hi, I'm **Your Name**, a [your role – e.g., Full-Stack Developer] based in [your location]. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
+Hi, I'm **Oshada nethmina**, a [your role – e.g., Full-Stack Developer] based in [your location]. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
 
 - 🔭 I’m currently working on: [Project or learning goal]
 - 🌱 I’m currently learning: [Technology/language/tool]
