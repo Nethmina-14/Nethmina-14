@@ -1,4 +1,4 @@
-# 💼 Developer Portfolio - Your Name
+# 💼 Developer Portfolio - Oshada Nethmina
 
 Welcome to my personal portfolio! I'm a passionate software developer focused on building efficient, scalable, and user-friendly digital solutions. This repository contains the code and documentation for my portfolio website.
 
